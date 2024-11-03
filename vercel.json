@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "web/next.config.mjs",
+      "use": "@vercel/next"
+    }
+  ],
+  "projectSettings": {
+    "rootDirectory": "web"
+  }
+}
